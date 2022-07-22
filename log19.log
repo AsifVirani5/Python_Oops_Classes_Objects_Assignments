@@ -1,0 +1,4 @@
+2022-07-17 06:55:38,880INFOIn this multi level inheritance, we will see how if a same method or function is define in two different classes, we can only call the last method or function and not the firstroot
+2022-07-17 06:55:38,880INFOHere, We are defining the same method called studentname that we had already define in the previous classroot
+2022-07-19 18:46:11,930INFOIn this multi level inheritance, we will see how if a same method or function is define in two different classes, we can only call the last method or function and not the firstroot
+2022-07-19 18:46:11,930INFONow, We are defining the same method called studentname that we had already define in the previous classroot

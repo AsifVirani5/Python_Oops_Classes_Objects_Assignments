@@ -1,0 +1,25 @@
+2022-07-15 14:35:57,302INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:35:57,302ERRORrootname 'student1' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Python_Oops_Assignments\Python_Class_Example4.py", line 8, in __init__
+    self.student = student1
+NameError: name 'student1' is not defined
+2022-07-15 14:41:57,583INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:41:57,583ERRORrootname 'student' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Python_Oops_Assignments\Python_Class_Example4.py", line 8, in __init__
+    self.studentname = student
+NameError: name 'student' is not defined
+2022-07-15 14:42:29,526INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:42:29,526ERRORrootname 'student' is not defined
+Traceback (most recent call last):
+  File "C:\Users\460379\Python Projects ineuron\Python_Oops_Assignments\Python_Class_Example4.py", line 8, in __init__
+    self.studentname = student
+NameError: name 'student' is not defined
+2022-07-15 14:42:46,931INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:42:46,932INFOrootWe will now fetch the details of ineuron students
+2022-07-15 14:43:40,449INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:43:40,449INFOrootWe will now fetch the details of ineuron students
+2022-07-15 14:49:56,198INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:51:11,369INFOrootThis is an assignment for Oops classes and objects. The code has been initiated
+2022-07-15 14:51:11,370INFOrootWe will now fetch the details of ineuron students
